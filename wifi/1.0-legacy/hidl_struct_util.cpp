@@ -1785,6 +1785,10 @@ bool convertHidlNanConfigRequestToLegacy(
      * Missing updates needed to legacy_hal::NanConfigRequest and conversion to
      * it for 6GHz band */
 
+    /* TODO: b/145609058
+     * Missing updates needed to legacy_hal::NanConfigRequest and conversion to
+     * it for 6GHz band */
+
     return true;
 }
 
